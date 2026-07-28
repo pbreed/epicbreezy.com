@@ -10,3 +10,8 @@ Thumbs.db
 *.swp
 *.bak
 .~lock.*
+
+# Credentials that were sitting untracked and unignored -- `*.token` above does
+# not match a file simply named `github_token`.
+github_token
+.git-credentials
