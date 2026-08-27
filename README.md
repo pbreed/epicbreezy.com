@@ -13,7 +13,8 @@ them, so the trip finishes at Segment 5.
   Opens in Google Earth Pro.
 - `Segment2_Trip.kml` — Segment 2 (KBRO → KCGC, June 5-13, 2026). 19 legs, 17 airports.
 - `Segment3_Trip.kml` — Segment 3 (KCGC → KGTF, July 2-24, 2026). 47 legs, 48 airports.
-- `Segment4_Trip.kml` — Segment 4 (KGTF → KYKM, August 20-24, 2026). 9 legs, 9 airports.
+- `Segment4_Trip.kml` — Segment 4 (KGTF → KYKM, August 20-24, 2026). 9 legs, 9 airports,
+  including the 22 August crossing of Glacier National Park.
 
 All four KMLs are 1 Hz tracks recorded by the wing-mounted GoPros. Segments 2, 3 and 4
 had no filed flight plan to work from, so their legs and airport lists were derived
